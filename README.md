@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Balaji Asish Atukuri.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+![Animated GIF](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
 
 - 🌱 I’m currently learning **NextJS ,PrismaORM and Devops**
 
