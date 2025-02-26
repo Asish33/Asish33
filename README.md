@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="1600" height="auto" alt="Animated GIF">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="1600" height="500" alt="Animated GIF">
 
 - 🌱 I’m currently learning **NextJS ,PrismaORM and Devops**
 
